@@ -1,6 +1,8 @@
 
 Test
 
+[comment]: # catppuccin colorscheme rainbow thing
+
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/mocha.png" width="400" />
+	<img src="https://github.com/crosdahl/crosdahl/blob/d5979d4e31db85f3b011efed7e8e99c90cf59900/header.png"/>
 </p>
